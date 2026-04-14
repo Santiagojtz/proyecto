@@ -17,10 +17,8 @@ Editar resultados de partidos
 Exportar la tabla de posiciones a un archivo externo
 
 ------------------------------------------------------------------------------
-Instrucciones para compilar y ejecutar el programa:
-
-+
-
+Proyecto Liga de Fútbol en C++
+Instrucciones para compilar y ejecutar el programa
 Abrir la terminal en la carpeta del proyecto.
 Entrar a la carpeta donde se encuentra el código:
 cd src
@@ -38,7 +36,6 @@ partidos.txt
 tabla.txt
 
 Todos estos archivos se encuentran dentro de la carpeta src y deben permanecer en la misma ubicación que el ejecutable para que el programa funcione correctamente.
-
 Descripción
 
 El programa simula una liga de fútbol, permitiendo:
