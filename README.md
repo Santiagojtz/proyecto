@@ -55,13 +55,10 @@ empate: puntos por empate
 derrota: puntos por derrota
 equipo: nombre de cada equipo (uno por línea)
  Ejemplo:
-nombre=Liga Colombiana
+
 victoria=3
 empate=1
 derrota=0
-equipo=Millonarios
-equipo=Santa Fe
-equipo=Atlético Nacional
 equipo=América de Cali
 -------------------------
 Descripcion de las decisiones de diseno mas importantes:
