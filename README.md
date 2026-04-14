@@ -19,12 +19,14 @@ Exportar la tabla de posiciones a un archivo externo
 ------------------------------------------------------------------------------
 Instrucciones para compilar y ejecutar el programa:
 
-Proyecto Liga de Fútbol en C++
-Cómo ejecutar el programa
-Abrir la terminal en la carpeta del proyecto
++
+
+Abrir la terminal en la carpeta del proyecto.
+Entrar a la carpeta donde se encuentra el código:
+cd src
 Compilar el programa:
 g++ main.cpp -o liga
-Ejecutar:
+Ejecutar el programa:
 ./liga
 Archivos necesarios
 
@@ -35,7 +37,7 @@ fechas.txt
 partidos.txt
 tabla.txt
 
-Todos deben estar en la misma carpeta que el ejecutable.
+Todos estos archivos se encuentran dentro de la carpeta src y deben permanecer en la misma ubicación que el ejecutable para que el programa funcione correctamente.
 
 Descripción
 
