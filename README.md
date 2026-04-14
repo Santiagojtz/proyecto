@@ -19,15 +19,31 @@ Exportar la tabla de posiciones a un archivo externo
 ------------------------------------------------------------------------------
 Instrucciones para compilar y ejecutar el programa:
 
-1. Abrir la terminal y ubicarse en la carpeta donde se encuentra el archivo main.cpp.
+Proyecto Liga de Fútbol en C++
+Cómo ejecutar el programa
+Abrir la terminal en la carpeta del proyecto
+Compilar el programa:
+g++ main.cpp -o liga
+Ejecutar:
+./liga
+Archivos necesarios
 
-2. Compilar el programa con el siguiente comando:
-   g++ main.cpp -o liga -Wall
+El programa utiliza los siguientes archivos:
 
-   Este comando utiliza el compilador g++ para generar un archivo ejecutable llamado "liga".
+config.txt
+fechas.txt
+partidos.txt
+tabla.txt
 
-3. Ejecutar el programa con el comando:
-   liga
+Todos deben estar en la misma carpeta que el ejecutable.
+
+Descripción
+
+El programa simula una liga de fútbol, permitiendo:
+
+Leer configuración
+Procesar partidos
+Generar tabla de posiciones
    -------------------------------
    Formato de config.txt
 
