@@ -1,0 +1,21 @@
+
+nombre=SUPERLIGAXX
+victoria=3
+empate=1
+derrota=0
+equipo=Junior
+equipo=Atletico
+equipo=Manchester
+equipo=Botafogo
+equipo=Inter
+equipo=Lazio
+equipo=Bayern Múnich
+equipo=Atalanta
+equipo=Liverpool
+equipo=Paris FC
+equipo=Real Madrid
+equipo=Barcelona
+equipo=Boca Juniors
+equipo=River
+equipo=Racing
+equipo=America de Cali

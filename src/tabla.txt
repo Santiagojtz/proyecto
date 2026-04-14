@@ -1,0 +1,18 @@
+# TABLA DE POSICIONES
+# Pos Equipo PJ PG PE PP GF GC DG PTS
+1 Junior 0 0 0 0 0 0 0 0
+2 Atletico 0 0 0 0 0 0 0 0
+3 Manchester 0 0 0 0 0 0 0 0
+4 Botafogo 0 0 0 0 0 0 0 0
+5 Inter 0 0 0 0 0 0 0 0
+6 Lazio 0 0 0 0 0 0 0 0
+7 Bayern Múnich 0 0 0 0 0 0 0 0
+8 Atalanta 0 0 0 0 0 0 0 0
+9 Liverpool 0 0 0 0 0 0 0 0
+10 Paris FC 0 0 0 0 0 0 0 0
+11 Real Madrid 0 0 0 0 0 0 0 0
+12 Barcelona 0 0 0 0 0 0 0 0
+13 Boca Juniors 0 0 0 0 0 0 0 0
+14 River 0 0 0 0 0 0 0 0
+15 Racing 0 0 0 0 0 0 0 0
+16 America de Cali 0 0 0 0 0 0 0 0
